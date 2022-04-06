@@ -27,8 +27,6 @@ open class BaseActivity: AppCompatActivity() {
         /*
             status bar customize second version
          */
-
-
         window.statusBarColor = ContextCompat.getColor(this, R.color.status_bar)
         window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR
     }
