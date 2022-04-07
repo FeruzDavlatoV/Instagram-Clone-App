@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="app_color_1">#c13584</color>
+    <color name="app_color_2">#833AB4</color>
     <color name="black">#FF000000</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
@@ -9,15 +11,21 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Instagram Clone App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
     <string name="str_already_account"> Already have an account? </string>
     <string name="str_cpassword">Confirm Password</string>
     <string name="str_donot_account"> Don`t have an account </string>
     <string name="str_email">Email</string>
+    <string name="str_favorite"> Favorite </string>
     <string name="str_fullname">Fullname</string>
+    <string name="str_home"> Home </string>
     <string name="str_instagram">Instagram</string>
     <string name="str_password">Password</string>
+    <string name="str_search"> Search </string>
     <string name="str_signin">Sign In</string>
     <string name="str_signup">Sign Up</string>
+    <string name="str_upload"> Upload </string>
     <style name="Theme.InstagramCloneApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

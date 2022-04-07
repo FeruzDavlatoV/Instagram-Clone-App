@@ -9,6 +9,14 @@
     <string name="str_signup">Sign Up</string>
     <string name="str_already_account"> Already have an account? </string>
     <string name="str_donot_account"> Don`t have an account </string>
+    <string name="str_home"> Home </string>
+    <string name="str_search"> Search </string>
+    <string name="str_upload"> Upload </string>
+    <string name="str_favorite"> Favorite </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
 
 
 </resources>
